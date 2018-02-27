@@ -1,5 +1,7 @@
 # AutoLaTeX
 
+[README in English](https://github.com/dreamerblue/AutoLaTeX/blob/master/README_en.md)
+
 ### 简介
 
 自动渲染 LaTeX 公式。
